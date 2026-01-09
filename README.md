@@ -12,7 +12,8 @@
 
 - **动态内壁 (Dynamic First Wall):** 放弃寻找永不损坏的材料，采用一种由 AI 算出的、具有 **7 天 (168小时)** 半衰期的同位素混合体。
 - **磁性相位突变 (Magnetic Phase Transition):** 吸收过量中子的废料会发生物理性质突变（从顺磁变为强抗磁），由磁场自动排出。
-- **计算定义能源 (Compute-Defined Energy):** 利用超大规模算力实时模拟核嬗变，维持反应堆的动态平衡。
+- **计算定义能源 (Compute-Defined Energy):** 利用超大规模算力实时模拟核嬗变，维持反应堆的动态平衡。![unnamed](https://github.com/user-attachments/assets/3bcabb3a-29c3-4c5c-a8b1-17642f2efd8f)
+
 
 ## 📅 维护节奏 (The 168-Hour Cycle)
 
